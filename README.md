@@ -1,4 +1,5 @@
 make sure you have python installed :)
+
 HOW TO USE:
 1. Put the raw SM chart data in one.txt (boyfriend) and two.txt (opponent) by opening the SM with a text editor and copying the text under the desired chart heading (and above the next heading if the SM has more than one chart). Do not include the headings in the txt files.
 EXAMPLE HEADING:
